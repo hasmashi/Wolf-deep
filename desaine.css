@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+     color: rgb(3,1000,6);
+     font-family: monospace, sans-serif;
+    background-image: url(img/1609994059-pattern-black-background-design-9233-wallpaper.jpg);
+    padding-bottom:100px;
+    margin-bottom:100px;
+}
+#wolf{
+      font-family: HACKED, monospace, sans-serif;
+    color: aliceblue;
+    font-size: 10em;
+    margin: 0 auto;
+}
